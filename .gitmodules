@@ -1,0 +1,9 @@
+[submodule "scripts/videoclip"]
+	path = scripts/videoclip
+	url = https://github.com/Ajatt-Tools/videoclip.git
+[submodule "scripts/mpv-webtorrent-hook"]
+	path = scripts/mpv-webtorrent-hook
+	url = https://github.com/noctuid/mpv-webtorrent-hook
+[submodule "scripts/autosubsync"]
+	path = scripts/autosubsync
+	url = https://github.com/Ajatt-Tools/autosubsync-mpv
